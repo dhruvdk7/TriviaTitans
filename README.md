@@ -7,11 +7,11 @@
 
 ## Team Members
 
+- Dhruv Kothari
 - Parth Champaneria
 - Jainil Sevalia
 - Raj Patel
 - Akshit Patel
-- Dhruv Kothari
 
 ## Deployment URL
 
